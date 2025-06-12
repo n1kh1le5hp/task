@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain>=0.1.13
+transformers>=4.40.1
+sentence-transformers
+huggingface-hub
+pymupdf==1.22.5
+chromadb
+python-dotenv
+pydantic
+requests
+scikit-learn
+tqdm
