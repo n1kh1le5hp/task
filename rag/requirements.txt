@@ -1,13 +1,8 @@
 fastapi
 uvicorn
-langchain>=0.1.13
-transformers>=4.40.1
+transformers
+torch
+langchain
 sentence-transformers
-huggingface-hub
-pymupdf==1.22.5
+PyMuPDF
 chromadb
-python-dotenv
-pydantic
-requests
-scikit-learn
-tqdm
